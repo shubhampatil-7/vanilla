@@ -7,10 +7,15 @@
 
 * {
   box-sizing: border-box;
+  background-image: linear-gradient(240, red, purple);
+}
+
+#gradie {
+  background-color: linear-gradient(240, red, purple);
 }
 
 body {
-  background-color: #f9fafb;
+  background-color: #1b7ee0;
   font-family: "Open Sans", sans-serif;
   display: flex;
   align-items: center;
